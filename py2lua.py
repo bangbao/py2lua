@@ -2,7 +2,7 @@
 
 
 class PY2LUA(object):
-    """trans python oject to lua object
+    """trans python object to lua object
     """
     number_types = (int, float, long, complex)
     bool_types = (bool,)
